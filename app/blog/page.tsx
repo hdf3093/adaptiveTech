@@ -33,7 +33,7 @@ export default function BlogPage() {
         <div className="grid grid-cols-1 gap-8">
           <article className="bg-white rounded-lg shadow-md overflow-hidden">
             <Image 
-              src="/lynn.png" 
+              src="/icon.png" 
               alt="Lynn Valley" 
               width={800} 
               height={400} 
@@ -42,7 +42,7 @@ export default function BlogPage() {
             <div className="p-6">
               <h2 className="text-2xl font-bold mb-2">
                 <Link href="/blog/lynn" className="hover:text-[#90EE90] transition-colors">
-                  LynnValley.net
+                  Lynn Valley, Abilitease, EquipMeOT, Terri Bryant
                 </Link>
               </h2>
               <div className="flex items-center text-gray-500 text-sm mb-4">
