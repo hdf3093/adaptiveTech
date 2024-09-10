@@ -52,8 +52,7 @@ export default function BlogPage() {
                 <span>Hannah Foppoli Hernández</span>
               </div>
               <p className="text-gray-600 mb-4">
-              Lynn’s journey is central to the mission of the Adaptive Design Association, embodying the principles of creativity, possibility, and adaptation. Her website offers more than just a glimpse into her daily life; it serves as an educational resource that showcases innovative solutions for overcoming physical challenges. In this blog, I reflect on three videos from Lynn's site, sharing my insights into how she uses adaptive technologies to navigate everyday tasks with remarkable ingenuity and resilience.
-
+              In this blog post, I explore Lynn’s innovative use of adaptive technologies, highlighting how they help with everyday tasks like computer use, jar opening, and putting on socks. I also review adaptive products from Abilitease and EquipMeOT, and discuss makeup artist Terri Bryant’s approach to designing tools for those with Parkinson’s. These insights reveal the creative solutions that improve daily life for individuals with disabilities.
 
               </p>
               <Link href="/blog/lynn" className="inline-flex items-center text-[#90EE90] hover:underline font-medium">
