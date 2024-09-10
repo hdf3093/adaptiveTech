@@ -41,7 +41,7 @@ export default function ProjectsPage() {
             />
             <div className="p-6">
               <h2 className="text-2xl font-bold mb-2">Adaptive Game Controller</h2>
-              <p className="text-gray-600 mb-4">A customizable controller designed to make gaming accessible for individuals with limited mobility.</p>
+              <p className="text-gray-600 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at nulla venenatis ipsum facilisis blandit. In egestas, massa sit amet euismod tincidunt, mauris nisi feugiat est, in vulputate est massa id lacus.</p>
               <Link href="/projects/adaptive-game-controller" className="inline-flex items-center text-[#90EE90] hover:underline font-medium">
                 Learn more <ChevronRight className="ml-1 w-4 h-4" />
               </Link>
@@ -57,47 +57,15 @@ export default function ProjectsPage() {
               className="w-full h-48 object-cover"
             />
             <div className="p-6">
-              <h2 className="text-2xl font-bold mb-2">Smart Home Accessibility System</h2>
-              <p className="text-gray-600 mb-4">An IoT-based system that enhances home automation for individuals with disabilities.</p>
+              <h2 className="text-2xl font-bold mb-2">Wearable Navigation Aid</h2>
+              <p className="text-gray-600 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at nulla venenatis ipsum facilisis blandit. In egestas, massa sit amet euismod tincidunt, mauris nisi feugiat est, in vulputate est massa id lacus.</p>
               <Link href="/projects/smart-home-accessibility" className="inline-flex items-center text-[#90EE90] hover:underline font-medium">
                 Learn more <ChevronRight className="ml-1 w-4 h-4" />
               </Link>
             </div>
           </div>
 
-          <div className="bg-white rounded-lg shadow-md overflow-hidden">
-            <Image 
-              src="/placeholder.png" 
-              alt="AI-Powered Assistive Communication Device" 
-              width={600} 
-              height={400} 
-              className="w-full h-48 object-cover"
-            />
-            <div className="p-6">
-              <h2 className="text-2xl font-bold mb-2">AI-Powered Assistive Communication Device</h2>
-              <p className="text-gray-600 mb-4">A device that uses machine learning to predict and suggest words, aiding communication for non-verbal individuals.</p>
-              <Link href="/projects/ai-assistive-communication" className="inline-flex items-center text-[#90EE90] hover:underline font-medium">
-                Learn more <ChevronRight className="ml-1 w-4 h-4" />
-              </Link>
-            </div>
-          </div>
-
-          <div className="bg-white rounded-lg shadow-md overflow-hidden">
-            <Image 
-              src="/placeholder.png" 
-              alt="Wearable Navigation Aid for the Visually Impaired" 
-              width={600} 
-              height={400} 
-              className="w-full h-48 object-cover"
-            />
-            <div className="p-6">
-              <h2 className="text-2xl font-bold mb-2">Wearable Navigation Aid</h2>
-              <p className="text-gray-600 mb-4">A haptic feedback system that assists visually impaired individuals in navigating their environment.</p>
-              <Link href="/projects/wearable-navigation-aid" className="inline-flex items-center text-[#90EE90] hover:underline font-medium">
-                Learn more <ChevronRight className="ml-1 w-4 h-4" />
-              </Link>
-            </div>
-          </div>
+          
         </div>
       </main>
 

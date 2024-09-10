@@ -38,13 +38,13 @@ export default function AboutPage() {
             <div className="p-8">
               <h1 className="text-3xl font-bold mb-4">About Me</h1>
               <p className="text-gray-600 mb-4">
-                Hello! I'm Hannah Foppoli Hernández, a passionate student and innovator in the field of physical computing and adaptive technology. Currently pursuing my degree at New York University, I'm dedicated to creating technology that bridges the gap between human needs and technological capabilities.
+                Hello! I'm Hannah Foppoli Hernández, a passionate student and innovator in the field of physical computing and adaptive technology. Currently pursuing my degree at New York University, I'm dedicated to creating technology for social good.
               </p>
               <p className="text-gray-600 mb-4">
-                My journey in this field began with a simple desire to make technology more accessible and intuitive for everyone, regardless of their physical abilities. This passion has led me to explore various aspects of adaptive technology, from creating custom hardware solutions to developing innovative software applications.
+                My journey in this field began with a simple desire to make technology more accessible and intuitive for everyone, regardless of their physical abilities. This passion has led me to explore various aspects of adaptive technology by finding a course at NYU ITP encompassing all of these goals.
               </p>
               <p className="text-gray-600 mb-4">
-                When I'm not tinkering with circuits or coding, you can find me volunteering at local tech workshops, participating in hackathons, or exploring the latest advancements in assistive technologies. I believe in the power of technology to improve lives and am committed to contributing to this exciting and rapidly evolving field.
+                When I'm not tinkering with circuits or coding, you can find me mixing music, reading William Blake, or practicing Japanese.
               </p>
               <div className="flex space-x-4 mb-6">
                 <a href="https://github.com/hdf3093" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#90EE90]" aria-label="GitHub">

@@ -32,7 +32,7 @@ export default function PersonalBlog() {
         </div>
       </header>
 
-      {/* Modern Hero Section */}
+      {/* Hero Section */}
       <section className="bg-gradient-to-br from-[#90EE90] to-[#66CDAA] text-gray-800 py-20">
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row items-center justify-between">
@@ -79,11 +79,8 @@ export default function PersonalBlog() {
             <h2 className="text-2xl font-bold mb-4 text-gray-800 hover:text-[#90EE90] transition-colors">
               <Link href="/blog/adaptive-controller">Building an Adaptive Controller for Accessibility</Link>
             </h2>
-            <p className="text-gray-600 mb-4">
-              In this project, I designed and built a custom adaptive controller to improve 
-              gaming accessibility. Using Arduino and 3D printing, I created a modular 
-              controller that can be easily customized for various needs.
-            </p>
+            <p className="text-gray-600 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at nulla venenatis ipsum facilisis blandit. In egestas, massa sit amet euismod tincidunt, mauris nisi feugiat est, in vulputate est massa id lacus.</p>
+
             <Link href="/blog/adaptive-controller" className="inline-flex items-center text-[#90EE90] hover:underline font-medium">
               Read more <ChevronRight className="ml-1 w-4 h-4" />
             </Link>
@@ -91,13 +88,10 @@ export default function PersonalBlog() {
 
           <article className="bg-white rounded-lg shadow-md p-6 mb-8 transition-shadow hover:shadow-lg">
             <h2 className="text-2xl font-bold mb-4 text-gray-800 hover:text-[#90EE90] transition-colors">
-              <Link href="/blog/machine-learning-assistive-devices">Implementing Machine Learning in Assistive Devices</Link>
+              <Link href="/blog/machine-learning-assistive-devices">Wearable Navigation Aid</Link>
             </h2>
-            <p className="text-gray-600 mb-4">
-              Exploring the potential of machine learning in enhancing assistive devices. 
-              I developed a prototype that uses ML algorithms to adapt to user behavior, 
-              improving the device's effectiveness over time.
-            </p>
+            <p className="text-gray-600 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In at nulla venenatis ipsum facilisis blandit. In egestas, massa sit amet euismod tincidunt, mauris nisi feugiat est, in vulputate est massa id lacus.</p>
+
             <Link href="/blog/machine-learning-assistive-devices" className="inline-flex items-center text-[#90EE90] hover:underline font-medium">
               Read more <ChevronRight className="ml-1 w-4 h-4" />
             </Link>
@@ -110,7 +104,7 @@ export default function PersonalBlog() {
             <h3 className="text-xl font-bold mb-4 text-gray-800">About Me</h3>
             <p className="text-gray-600 mb-4">
               I'm a student passionate about using technology to solve real-world problems. 
-              My focus is on physical computing and adaptive technology, aiming to make 
+              My current focus is on physical computing and adaptive technology, aiming to make 
               technology more accessible and inclusive.
             </p>
             <div className="flex space-x-4">
