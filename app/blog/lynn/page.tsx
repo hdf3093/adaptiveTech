@@ -8,9 +8,12 @@ export default function BlogPost() {
       {/* Header */}
       <header className="bg-white shadow-sm sticky top-0 z-10">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <Link href="/" className="text-2xl font-bold text-gray-800 hover:text-[#90EE90] transition-colors">
+        <Link href="/">
+          <a className="text-2xl font-bold text-gray-800 hover:text-[#90EE90] transition-colors">
             Hannah Foppoli Hernández
-          </Link>
+          </a>
+        </Link>
+
           <nav>
             <ul className="flex space-x-6">
               <li><Link href="/" className="hover:text-[#90EE90] transition-colors font-medium">Home</Link></li>
@@ -26,9 +29,12 @@ export default function BlogPost() {
 
       {/* Main Content */}
       <main className="flex-grow container mx-auto px-4 py-12">
-        <Link href="/blog" className="inline-flex items-center text-[#90EE90] hover:underline font-medium mb-8">
-          <ArrowLeft className="mr-2 w-4 h-4" /> Back to all posts
+        <Link href="/blog">
+          <a className="inline-flex items-center text-[#90EE90] hover:underline font-medium mb-8">
+            <ArrowLeft className="mr-2 w-4 h-4" /> Back to all posts
+          </a>
         </Link>
+
 
         <article className="bg-white rounded-lg shadow-md overflow-hidden">
           <Image 
