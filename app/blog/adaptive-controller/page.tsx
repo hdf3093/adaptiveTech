@@ -31,85 +31,48 @@ export default function BlogPost() {
 
         <article className="bg-white rounded-lg shadow-md overflow-hidden">
           <Image 
-            src="/placeholder.png" 
-            alt="Building an Adaptive Controller for Accessibility" 
+            src="/lynn.png" 
+            alt="Lynn Valley" 
             width={1200} 
             height={600} 
             className="w-full h-96 object-cover"
           />
           <div className="p-8">
-            <h1 className="text-4xl font-bold mb-4">Building an Adaptive Controller for Accessibility</h1>
+            <h1 className="text-4xl font-bold mb-4">LynnValley.net</h1>
             <div className="flex items-center text-gray-500 text-sm mb-6">
               <Calendar className="w-4 h-4 mr-2" />
-              <span className="mr-4">September 5th, 2024</span>
+              <span className="mr-4">September 10th, 2024</span>
               <User className="w-4 h-4 mr-2" />
               <span>Hannah Foppoli Hernández</span>
             </div>
             <div className="prose max-w-none">
               <p>
-                In the realm of gaming, accessibility has become an increasingly important topic. 
-                As a student passionate about adaptive technology, I embarked on a project to create 
-                a customizable controller that would make gaming more accessible for individuals with 
-                limited mobility. This post details my journey from concept to creation, highlighting 
-                the challenges faced and the solutions developed along the way.
+              Lynn’s journey is central to the mission of the Adaptive Design Association, embodying the principles of creativity, possibility, and adaptation. Her website offers more than just a glimpse into her daily life; it serves as an educational resource that showcases innovative solutions for overcoming physical challenges. In this blog, I reflect on three videos from Lynn's site, sharing my insights into how she uses adaptive technologies to navigate everyday tasks with remarkable ingenuity and resilience.
               </p>
-              <h2>The Concept</h2>
+              <h2>Computer Use</h2>
               <p>
-                The idea for this project stemmed from conversations with gamers who have various 
-                physical disabilities. Many expressed frustration with standard controllers that 
-                didn't accommodate their specific needs. I realized that a one-size-fits-all approach 
-                wasn't the answer; instead, a modular, customizable controller could provide the 
-                flexibility required to address a wide range of accessibility needs.
+              I was impressed with the adaptive hand modifications that Lynn’s husband helped to create to help her use and navigate the computer. I didn’t consider that the tip of some pegs, as she was describing, were not efficient enough because they would slide off of the keys. She said that she liked the current pegs that she had because the tip was sticky and could actually stick onto the key that she was trying to press. I was also surprised to see the spherical mouse that she was using, because I have actually seen it sold at a regular technology store in Japan (and I’m positive they’d have it somewhere in Best Buy in the US). I was surprised to see this, because when I first saw this spherical mouse design, I didn’t even consider that it would be beneficial as adaptive technology, and I just thought it was some modern, ergonomic design. Upon seeing this, I was surprised to see that they are far from new, and were (and continue to be) used in the adaptive sense. 
+
               </p>
-              <h2>Design and Prototyping</h2>
+              <h2>Opening Jars</h2>
               <p>
-                Using 3D modeling software, I designed a base unit that could accommodate various 
-                input modules. The key was to create a system where buttons, joysticks, and other 
-                controls could be easily swapped out or repositioned. After several iterations, I 
-                settled on a design that used magnetic connections, allowing for easy customization 
-                without the need for tools.
+              Opening jars is something that even I, an able-bodied person, struggle with often. I learned from Lynn in this video that your grip is strongest when your hands are under your chin– for example, if you’re holding a jar within arms reach, your force is lessened when compared to your strength when they are directly under your chin. To open a jar, she has to get down on the ground and use her thighs to maintain the jar’s stability. This seems like a good solution for the challenge of opening jars, but it made me wonder what someone with low mobility in their legs would do, who can’t get up and down so easily. I’m also sure Lynn would prefer not to have to sit on the ground every time she wants to open a jar, but it’s a practical solution that she can do. In this case, I wonder if there are any advancements in adaptive technology specifically for opening jars. Upon looking it up, there are many pretty affordable options ($7-20) on Amazon. 
+
               </p>
-              <h2>Arduino Integration</h2>
+              <h2>Putting Socks On</h2>
               <p>
-                To bring the controller to life, I turned to Arduino. The Arduino Mega 2560 provided 
-                the perfect balance of input/output pins and processing power. I wrote custom firmware 
-                that could recognize different input modules and map them to standard controller outputs. 
-                This approach ensured compatibility with a wide range of gaming systems.
+              To put socks on, Lynn uses her teeth to open them, puts both her hands in, positions her foot and enters the socks by replacing her hands with her foot. She did both feet in less than 2 minutes, and she stated that she often uses her teeth to do things which most would find as a disturbance. Again, I wondered what someone with low leg mobility would do in this situation. Lynn seems to be pretty flexible and just fine moving her legs up, but this would be difficult for someone who can’t do that. I was curious, and on Amazon there are many sock assistance devices with similar design for less than $20, which seem to be good solutions for those who cannot move their legs much. 
+
               </p>
-              <h2>3D Printing and Assembly</h2>
+              
+              <h2>Findings</h2>
               <p>
-                With the designs finalized, I used a 3D printer to create the controller's base and 
-                various input modules. The printing process required careful calibration to ensure 
-                that all parts fit together seamlessly. Assembly involved soldering connections for 
-                the electronic components and testing each module extensively.
-              </p>
-              <h2>Testing and Refinement</h2>
-              <p>
-                The testing phase was crucial and involved working closely with individuals who have 
-                different accessibility needs. Their feedback was invaluable, leading to several 
-                refinements in both the hardware design and the firmware. We tested the controller 
-                with various games across multiple platforms to ensure broad compatibility and responsiveness.
-              </p>
-              <h2>Results and Future Development</h2>
-              <p>
-                The final product was a success, offering a level of customization that surpassed 
-                initial expectations. Users could easily configure the controller to suit their 
-                specific needs, whether that meant clustering all inputs on one side, using oversized 
-                buttons, or incorporating sip-and-puff controls.
-              </p>
-              <p>
-                Looking ahead, I see numerous opportunities for further development. Ideas include 
-                wireless modules, integration with eye-tracking technology, and the development of 
-                game-specific profiles that can be easily loaded onto the controller.
-              </p>
-              <h2>Conclusion</h2>
-              <p>
-                This project reinforced my belief in the power of adaptive technology to create more 
-                inclusive experiences. By combining 3D printing, Arduino, and user-centered design, 
-                we can develop solutions that adapt to people's needs rather than forcing people to 
-                adapt to technology. As I continue my studies and research in this field, I'm excited 
-                about the potential to create more innovations that can make a real difference in 
-                people's lives.
+              In conclusion, Lynn’s use of adaptive technologies highlights both the creativity and resilience needed to navigate everyday tasks that many of us take for granted. 
+              From computer use to opening jars and putting on socks, her innovative approaches demonstrate how technology can be adapted to meet individual needs. Her experiences also remind us of the importance of continual advancements in adaptive design, particularly for those with varying levels of mobility. 
+              While solutions like sticky peg tips, spherical mice, and sock assistance devices exist, Lynn’s story emphasizes the ongoing need for accessible, affordable, and user-friendly tools that promote independence and ease in daily life.
+
+
+
               </p>
             </div>
           </div>

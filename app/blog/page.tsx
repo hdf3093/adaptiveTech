@@ -33,8 +33,8 @@ export default function BlogPage() {
         <div className="grid grid-cols-1 gap-8">
           <article className="bg-white rounded-lg shadow-md overflow-hidden">
             <Image 
-              src="/placeholder.png" 
-              alt="Building an Adaptive Controller for Accessibility" 
+              src="/lynn.png" 
+              alt="Lynn Valley" 
               width={800} 
               height={400} 
               className="w-full h-64 object-cover"
@@ -42,20 +42,19 @@ export default function BlogPage() {
             <div className="p-6">
               <h2 className="text-2xl font-bold mb-2">
                 <Link href="/blog/adaptive-controller" className="hover:text-[#90EE90] transition-colors">
-                  Building an Adaptive Controller for Accessibility
+                  LynnValley.net
                 </Link>
               </h2>
               <div className="flex items-center text-gray-500 text-sm mb-4">
                 <Calendar className="w-4 h-4 mr-2" />
-                <span className="mr-4">September 5th, 2024</span>
+                <span className="mr-4">September 10th, 2024</span>
                 <User className="w-4 h-4 mr-2" />
                 <span>Hannah Foppoli Hernández</span>
               </div>
               <p className="text-gray-600 mb-4">
-                In this project, I designed and built a custom adaptive controller to improve 
-                gaming accessibility. Using Arduino and 3D printing, I created a modular 
-                controller that can be easily customized for various needs. This post details 
-                the entire process, from initial concept to final product.
+              Lynn’s journey is central to the mission of the Adaptive Design Association, embodying the principles of creativity, possibility, and adaptation. Her website offers more than just a glimpse into her daily life; it serves as an educational resource that showcases innovative solutions for overcoming physical challenges. In this blog, I reflect on three videos from Lynn's site, sharing my insights into how she uses adaptive technologies to navigate everyday tasks with remarkable ingenuity and resilience.
+
+
               </p>
               <Link href="/blog/adaptive-controller" className="inline-flex items-center text-[#90EE90] hover:underline font-medium">
                 Read more <ChevronRight className="ml-1 w-4 h-4" />
