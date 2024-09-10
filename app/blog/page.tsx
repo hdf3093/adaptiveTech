@@ -41,7 +41,7 @@ export default function BlogPage() {
             />
             <div className="p-6">
               <h2 className="text-2xl font-bold mb-2">
-                <Link href="/blog/adaptive-controller" className="hover:text-[#90EE90] transition-colors">
+                <Link href="/blog/lynn" className="hover:text-[#90EE90] transition-colors">
                   LynnValley.net
                 </Link>
               </h2>
@@ -56,7 +56,7 @@ export default function BlogPage() {
 
 
               </p>
-              <Link href="/blog/adaptive-controller" className="inline-flex items-center text-[#90EE90] hover:underline font-medium">
+              <Link href="/blog/lynn" className="inline-flex items-center text-[#90EE90] hover:underline font-medium">
                 Read more <ChevronRight className="ml-1 w-4 h-4" />
               </Link>
             </div>
