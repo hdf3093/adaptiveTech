@@ -64,10 +64,8 @@ export default function BlogPost() {
               <h2>Findings</h2>
               <p> In conclusion, Lynn’s use of adaptive technologies highlights both the creativity and resilience needed to navigate everyday tasks that many of us take for granted.
              From computer use to opening jars and putting on socks, her innovative approaches demonstrate how technology can be adapted to meet individual needs. Her experiences also remind us of the importance of continual advancements in adaptive design, particularly for those with varying levels of mobility.</p>
-              <br />
               <h2>Abilitease</h2>
               <p>Mark Fuglevand founded Abilitease Adaptive after a spinal cord injury, turning his vision of designing stylish, functional products for individuals with disabilities into reality. Through a journey of learning CAD and 3D printing, he launched an online store in 2022, providing adaptive tools that promote independence and enhance quality of life for the disabled community worldwide.</p>
-              <br />
               <h3>Adaptive Drink Holder (Cans and Bottles)</h3>
               <p>I was drawn to this first because it was sold out. The design seems very practical for those with low dexterity in their hands, and I like that there are numerous ways you can secure your hand to the cuff. " Our cuffs come in three different sizes to accommodate the hand thickness of the individual." This is thoughtful and innovative. I will say, however, that $50 for a 3D printed object is very pricey. Given my experience and knowledge with 3D printing, I know that this is much cheaper to make, but of course, one must account for labor costs, printer, etc. However, I still think that $50 is expensive for a drink holder.</p>
               <div className="flex justify-center">
@@ -79,7 +77,6 @@ export default function BlogPost() {
                   className="object-contain"
                 />
               </div>
-              <br />
               <h3>Can (12oz) Stabilizer w/ Insert</h3>
               <p>This can stabilizer supports the bottom portion of your 12 oz can beverage so that you can open and pick it up without the concern of knocking it over.  In addition, there are four legs around the base with rubber feet that add extra stability. "Do you struggle to hold your favorite can beverage steady while you attempt to open it?  Are you shy or embarrassed to pick up your beverage because you are concerned you may knock it over?" This can stabilizer is a good solution. It's difficult to open cans without stabilizing them, and I think this product offers support in that sense. It is priced at $23, which is expensive in my opinion. I'm sure there are a variety of factors influencing the price, but I can't help but think this should be more accessible, pricing wise.</p>
               <div className="flex justify-center">
@@ -91,10 +88,8 @@ export default function BlogPost() {
                   className="object-contain"
                 />
               </div>
-              <br />
               <h2>"How Makeup Artist Terri Bryant Is Using Her Parkinson's Diagnosis to Reinvent Makeup"</h2>
               <p>Makeup artist Terri Bryant, diagnosed with Parkinson's disease, founded Guide Beauty to create innovative, ergonomic makeup tools that make application easier for people with limited hand mobility. Her brand is designed for both beginners and professionals, offering products like the Guide Wand, which redefines how users apply eyeliner, while also promoting makeup education and accessibility.</p>
-              <br />
               <p>The star of the show seems to be the "Guide Wand", a solution to the struggles in applying eyeliner, which requires the utmost stability in one's hands for the perfect look.</p>
               <div className="flex justify-center">
                 <Image
@@ -105,11 +100,9 @@ export default function BlogPost() {
                   className="object-contain"
                 />
               </div>
-              <p>I really appreciate Bryant's approach to making makeup more adaptive. Eyeliner is something that most able-bodied people struggle with at first. It usually takes months of practice before one finally reaches knowing how to perfect and quickly do a nice wing. The product seems functional, however, I'd like to critique the video demonstration. <br> Bryant designed this with disability in mind, specifically Parkinson's, however, the woman in the video has completely stable hands. If I had Parkinson's and wanted to find a tool for makeup application, I'd be pretty dissapointed that the woman doing the demonstration had no visible shakiness like I do. How can someone trust that the product is actually beneficial if the person testing it doesn't have the disability it was designed to support? </p>
-              <br />
+              <p>I really appreciate Bryant's approach to making makeup more adaptive. Eyeliner is something that most able-bodied people struggle with at first. It usually takes months of practice before one finally reaches knowing how to perfect and quickly do a nice wing. The product seems functional, however, I'd like to critique the video demonstration.  Bryant designed this with disability in mind, specifically Parkinson's, however, the woman in the video has completely stable hands. If I had Parkinson's and wanted to find a tool for makeup application, I'd be pretty dissapointed that the woman doing the demonstration had no visible shakiness like I do. How can someone trust that the product is actually beneficial if the person testing it doesn't have the disability it was designed to support? </p>
               <h2>EquipMeOT with Lindsay DeLong</h2>
               <p>EquipMeOT with Lindsay DeLong is a Home and Community Occupational Therapist, specializing in adaptive equipment and home modifications to improve accessibility and showcasing her work on Instagram. As an Accessibility Life Hacker and Home Modification Specialist, they focus on empowering individuals with tailored solutions for daily independence.</p>
-              <br />
               <h3>EZ Stand-N-Go chair</h3>
               <p>The first item that DeLong is highlighting is the EZ Stand-N-Go chair and couch lift assist- an awesome and easy to install/use solution for low couches and chairs.</p>
               <div className="flex justify-center">
@@ -122,7 +115,6 @@ export default function BlogPost() {
                 />
               </div>
               <p>I particularly liked that she highlighted this because this is a tool that I could see my grandparents benefit from. When we go to the beach, they prefer the higher beach chairs because the lower ones are much too low. This tool seems very useful in adapting everyday tasks and making its users more comfortable.</p>
-              <br />
               <h3>EOT Wellness Lotion Applicator</h3>
               <div className="flex justify-center">
                 <Image
