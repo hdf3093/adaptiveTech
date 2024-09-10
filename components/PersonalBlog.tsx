@@ -154,15 +154,10 @@ export default function PersonalBlog() {
               <li>
                 <Link href="/projects/smart-home-accessibility" className="text-gray-600 hover:text-[#90EE90] transition-colors flex items-center">
                   <ChevronRight className="w-4 h-4 mr-2" />
-                  Smart Home Accessibility System
+                  Wearable Navigation Aid
                 </Link>
               </li>
-              <li>
-                <Link href="/projects/ai-assistive-communication" className="text-gray-600 hover:text-[#90EE90] transition-colors flex items-center">
-                  <ChevronRight className="w-4 h-4 mr-2" />
-                  AI-Powered Assistive Communication Device
-                </Link>
-              </li>
+              
             </ul>
           </div>
         </aside>
