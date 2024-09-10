@@ -20,6 +20,7 @@ export default function BlogPost() {
             </ul>
           </nav>
         </div>
+        </div>
       </header>
 
       {/* Main Content */}
