@@ -8,20 +8,21 @@ export default function BlogPost() {
       {/* Header */}
       <header className="bg-white shadow-sm sticky top-0 z-10">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-          <Link href="/" className="text-2xl font-bold text-gray-800 hover:text-[#90EE90] transition-colors">
-            Hannah Foppoli Hernández
-          </Link>
-          <nav>
-            <ul className="flex space-x-6">
-              <li><Link href="/" className="hover:text-[#90EE90] transition-colors font-medium">Home</Link></li>
-              <li><Link href="/blog" className="text-[#90EE90] font-medium">Blog</Link></li>
-              <li><Link href="/projects" className="hover:text-[#90EE90] transition-colors font-medium">Projects</Link></li>
-              <li><Link href="/about" className="hover:text-[#90EE90] transition-colors font-medium">About</Link></li>
-            </ul>
-          </nav>
+        <Link href="/" className="text-2xl font-bold text-gray-800 hover:text-[#90EE90] transition-colors">
+          Hannah Foppoli Hernández
+        </Link>
+        <nav>
+          <ul className="flex space-x-6">
+            <li><Link href="/" className="hover:text-[#90EE90] transition-colors font-medium">Home</Link></li>
+            <li><Link href="/blog" className="text-[#90EE90] font-medium">Blog</Link></li>
+            <li><Link href="/projects" className="hover:text-[#90EE90] transition-colors font-medium">Projects</Link></li>
+            <li><Link href="/about" className="hover:text-[#90EE90] transition-colors font-medium">About</Link></li>
+          </ul>
+        </nav>
         </div>
-        </div>
-      </header>
+    </header>
+
+    
 
       {/* Main Content */}
       <main className="flex-grow container mx-auto px-4 py-12">
