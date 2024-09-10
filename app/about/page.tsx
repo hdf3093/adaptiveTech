@@ -92,9 +92,11 @@ export default function AboutPage() {
           <h2 className="text-2xl font-bold mb-6">Education</h2>
           <div className="bg-white rounded-lg shadow-md p-6">
             <h3 className="text-xl font-bold mb-2">New York University</h3>
-            <p className="text-gray-600 mb-2">Bachelor of Science in Computer Science</p>
-            <p className="text-gray-600 mb-2">Specialization in Physical Computing and Adaptive Technology</p>
-            <p className="text-gray-600">Expected Graduation: May 2024</p>
+            <p className="text-gray-600 mb-2"> Gallatin School of Individualized Study</p>
+            <p className="text-gray-600 mb-2">BA in Ethical and Accesible Design in Human-Computer Interaction</p>
+            <p className="text-gray-600 mb-2">Minor in Computer Science</p>
+
+            <p className="text-gray-600">Expected Graduation: May 2025</p>
           </div>
         </div>
 
