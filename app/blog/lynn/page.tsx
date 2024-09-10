@@ -39,7 +39,7 @@ export default function BlogPost() {
           />
           <div className="p-8">
             <h1 className="text-4xl font-bold mb-4"> Lynn Valley, Abilitease, EquipMeOT, Terri Bryant
-</h1>
+            </h1>
             <div className="flex items-center text-gray-500 text-sm mb-6">
               <Calendar className="w-4 h-4 mr-2" />
               <span className="mr-4">September 10th, 2024</span>
