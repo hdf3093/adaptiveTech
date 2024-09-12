@@ -46,7 +46,7 @@ export default function BlogPost() {
             className="w-full h-96 object-cover"
           />
           <div className="p-8">
-            <h1 className="text-4xl font-bold mb-4">Lynn Valley, Abilitease, EquipMeOT, Terri Bryant</h1>
+            <h1 className="text-4xl font-bold mb-4">Lynn Valley, Abilitease, EquipMeOT, Terri Bryant, Activity Analysis</h1>
             <div className="flex items-center text-gray-500 text-sm mb-6">
               <Calendar className="w-4 h-4 mr-2" />
               <span className="mr-4">September 10th, 2024</span>
@@ -129,6 +129,53 @@ export default function BlogPost() {
             </div>
           </div>
         </article>
+        <article className="bg-white rounded-lg shadow-md overflow-hidden">
+          <h2 className="text-3xl font-bold mb-4">Activity Analysis: Making Coffee</h2>
+
+          <h3 className="text-2xl font-semibold mb-2">Task Overview</h3>
+          <p>
+            Making coffee involves using simple kitchen equipment to prepare a hot beverage. It requires coordination, cognition, and some motor skills to complete.
+          </p>
+
+          <h3 className="text-2xl font-semibold mb-2">Overall Time Requirement</h3>
+          <p>5-10 minutes depending on the equipment used.</p>
+
+          <h3 className="text-2xl font-semibold mb-2">Supplies Needed</h3>
+          <ul className="list-disc pl-5">
+            <li>Non-Consumable: Coffee maker, mug, spoon</li>
+            <li>Consumable: Coffee grounds, water, filter (if required)</li>
+          </ul>
+
+          <h3 className="text-2xl font-semibold mb-2">Space Requirements</h3>
+          <p>Small kitchen counter or workspace with access to a power outlet and water source.</p>
+
+          <h3 className="text-2xl font-semibold mb-2">Steps with Time Requirements</h3>
+          <ol className="list-decimal pl-5">
+            <li>Boil water (or prepare coffee machine): 3-5 minutes</li>
+            <li>Measure coffee grounds: 30 seconds</li>
+            <li>Pour water and start brewing: 1 minute</li>
+            <li>Serve and enjoy: 1 minute</li>
+          </ol>
+
+          <h3 className="text-2xl font-semibold mb-2">Required Client Factors</h3>
+          <p><strong>Body Functions</strong></p>
+          <ul className="list-disc pl-5">
+            <li>Mental functions: Attention and memory for sequencing tasks</li>
+            <li>Sensory functions: Vision for pouring, touch for handling items</li>
+            <li>Neuromuscular functions: Fine motor skills for handling the coffee and pouring water</li>
+          </ul>
+
+          <h3 className="text-2xl font-semibold mb-2">Required Performance Skills</h3>
+          <ul className="list-disc pl-5">
+            <li>Motor Skills: Coordination and balance for moving between equipment</li>
+            <li>Process Skills: Sequencing and organizing materials</li>
+            <li>Cognitive Skills: Understanding instructions for operating a coffee maker</li>
+          </ul>
+
+          <h3 className="text-2xl font-semibold mb-2">Therapeutic Benefit</h3>
+          <p>Helps improve sequencing, coordination, and memory skills. Can provide a sense of independence and achievement, especially in therapy for cognitive or motor impairments.</p>
+        </article>
+
       </main>
 
       {/* Footer */}

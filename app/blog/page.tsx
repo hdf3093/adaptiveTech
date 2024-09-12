@@ -42,7 +42,7 @@ export default function BlogPage() {
             <div className="p-6">
               <h2 className="text-2xl font-bold mb-2">
                 <Link href="/blog/lynn" className="hover:text-[#90EE90] transition-colors">
-                  Lynn Valley, Abilitease, EquipMeOT, Terri Bryant
+                  Lynn Valley, Abilitease, EquipMeOT, Terri Bryant, Activity Analysis
                 </Link>
               </h2>
               <div className="flex items-center text-gray-500 text-sm mb-4">
