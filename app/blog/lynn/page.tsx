@@ -126,31 +126,29 @@ export default function BlogPost() {
                 />
               </div>
               <p>This lotion applicator seems to be very useful in reaching those hard-to-get-to spots, and has a lot of length and flexibility. I think many people could benefit from this lotion applicator.</p>
-            </div>
-          </div>
-        </article>
-        <article className="bg-white rounded-lg shadow-md overflow-hidden">
-          <h2 className="text-3xl font-bold mb-4">Activity Analysis: Making Coffee</h2>
+            
+          
+          <h2 className="text-3xl font-bold mb-4 text-center">Activity Analysis: Making Coffee</h2>
 
           <h3 className="text-2xl font-semibold mb-2">Task Overview</h3>
-          <p>
+          <p className="mb-4">
             Making coffee involves using simple kitchen equipment to prepare a hot beverage. It requires coordination, cognition, and some motor skills to complete.
           </p>
 
           <h3 className="text-2xl font-semibold mb-2">Overall Time Requirement</h3>
-          <p>5-10 minutes depending on the equipment used.</p>
+          <p className="mb-4">5-10 minutes depending on the equipment used.</p>
 
           <h3 className="text-2xl font-semibold mb-2">Supplies Needed</h3>
-          <ul className="list-disc pl-5">
+          <ul className="list-disc pl-5 mb-4">
             <li>Non-Consumable: Coffee maker, mug, spoon</li>
             <li>Consumable: Coffee grounds, water, filter (if required)</li>
           </ul>
 
           <h3 className="text-2xl font-semibold mb-2">Space Requirements</h3>
-          <p>Small kitchen counter or workspace with access to a power outlet and water source.</p>
+          <p className="mb-4">Small kitchen counter or workspace with access to a power outlet and water source.</p>
 
           <h3 className="text-2xl font-semibold mb-2">Steps with Time Requirements</h3>
-          <ol className="list-decimal pl-5">
+          <ol className="list-decimal pl-5 mb-4">
             <li>Boil water (or prepare coffee machine): 3-5 minutes</li>
             <li>Measure coffee grounds: 30 seconds</li>
             <li>Pour water and start brewing: 1 minute</li>
@@ -158,23 +156,30 @@ export default function BlogPost() {
           </ol>
 
           <h3 className="text-2xl font-semibold mb-2">Required Client Factors</h3>
-          <p><strong>Body Functions</strong></p>
-          <ul className="list-disc pl-5">
+          <p className="font-semibold mb-2">Body Functions</p>
+          <ul className="list-disc pl-5 mb-4">
             <li>Mental functions: Attention and memory for sequencing tasks</li>
             <li>Sensory functions: Vision for pouring, touch for handling items</li>
             <li>Neuromuscular functions: Fine motor skills for handling the coffee and pouring water</li>
           </ul>
 
           <h3 className="text-2xl font-semibold mb-2">Required Performance Skills</h3>
-          <ul className="list-disc pl-5">
+          <ul className="list-disc pl-5 mb-4">
             <li>Motor Skills: Coordination and balance for moving between equipment</li>
             <li>Process Skills: Sequencing and organizing materials</li>
             <li>Cognitive Skills: Understanding instructions for operating a coffee maker</li>
           </ul>
 
           <h3 className="text-2xl font-semibold mb-2">Therapeutic Benefit</h3>
-          <p>Helps improve sequencing, coordination, and memory skills. Can provide a sense of independence and achievement, especially in therapy for cognitive or motor impairments.</p>
+          <p className="mb-4">
+            Helps improve sequencing, coordination, and memory skills. Can provide a sense of independence and achievement, especially in therapy for cognitive or motor impairments.
+          </p>
+          </div>
+          </div>
+
         </article>
+      
+
 
       </main>
 
