@@ -148,6 +148,21 @@ export default function BlogPost() {
 
               <p>The Quadstick is an adaptive controller that allows someone to play video games only using their mouth. It contains four components: a joystick which the user can control with mouth and head movements, a mouthpiece with three holes that the user sips or blows into for the different controls in the game, a lip switch that the user can activate with their lower lip, and a side tube that the user can sip or blow into to switch between gaming profiles. The device can be mounted to a table and positioned in front of the user so that they can play video games using only their mouth and head movements. The Quadstick can be programmed so that virtually any sip or puff combination on the controller can be any control or combination of controls in the game. </p>
 
+              <h2>BrailleTooth</h2>
+              <a>https://www.thingiverse.com/thing:1049237"</a>
+              <div className="flex justify-center">
+                <Image
+                  src="/braille.png" 
+                  alt="braille 3d device"
+                  width={300} 
+                  height={300} 
+                  className="object-contain"
+                />
+              </div>
+              <p>“BrailleTooth is a company with a mission to develop and build accessibility products for the blind and visually impaired. Currently, we are developing Braille Bluetooth Keyboards that can either be part of a phone case for both Android and Apple smartphones or as a wallet sized standalone that can be connected to any Bluetooth enabled device like a tablet, phone, or computer to be used as a fully functional keyboard and navigation device…  speaking out what you want to type is not always appropriate, and it can be frustrating when it doesn't work well. What are the alternatives for fast typing on a smartphone as a blind user? You could carry around a large keyboard with you, buy an incredibly expensive refreshable Brailler, or use a specialized app with virtual buttons and then copy over the text to the original app: all unsatisfactory solutions. This is why we propose the BrailleTooth, a phone case with integrated Braille Bluetooth keyboard that lets blind users type quickly using physical buttons while maintaining a reasonable price point which is a fraction of the current Braillers on the market.
+              The problem our idea addresses is easier accessibility for the blind. The case provides a physical Braille keyboard on the back so that the visually impaired can type on their phones without needing the phone to tell them what key is under their finger. It is time-consuming for the visually impaired to type well using a touchscreen - we found a way to change that.”
+              </p>
+
 
               
           
