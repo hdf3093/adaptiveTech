@@ -149,7 +149,7 @@ export default function BlogPost() {
               <p>The Quadstick is an adaptive controller that allows someone to play video games only using their mouth. It contains four components: a joystick which the user can control with mouth and head movements, a mouthpiece with three holes that the user sips or blows into for the different controls in the game, a lip switch that the user can activate with their lower lip, and a side tube that the user can sip or blow into to switch between gaming profiles. The device can be mounted to a table and positioned in front of the user so that they can play video games using only their mouth and head movements. The Quadstick can be programmed so that virtually any sip or puff combination on the controller can be any control or combination of controls in the game. </p>
 
               <h2>BrailleTooth</h2>
-              <a>https://www.thingiverse.com/thing:1049237"</a>
+              <a>https://www.thingiverse.com/thing:1049237</a>
               <div className="flex justify-center">
                 <Image
                   src="/braille.png" 
