@@ -28,7 +28,7 @@ export default function AboutPage() {
           <div className="md:flex">
             <div className="md:flex-shrink-0">
               <Image 
-                src="/placeholder.png" 
+                src="/90EE90.png" 
                 alt="Hannah Foppoli Hernández" 
                 width={400} 
                 height={400} 

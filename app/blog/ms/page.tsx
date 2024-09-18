@@ -191,7 +191,9 @@ export default function BlogPost() {
             </div>
             <div>
               <h3 className="text-xl font-bold mb-4">Contact</h3>
-              <p className="text-gray-400 mb-4">123 Tech Avenue<br />New York, NY 10001<br />Phone: (123) 456-7890</p>
+              <p className="text-gray-400 mb-2">Email: hdf3093@nyu.edu</p>
+              <p className="text-gray-400 mb-2">Location: New York, USA</p>
+              <p className="text-gray-400">University: New York University</p>
             </div>
           </div>
         </div>
