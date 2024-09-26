@@ -89,6 +89,32 @@ export default function BlogPage() {
               </Link>
             </div>
           </article>
+          <article className="bg-white rounded-lg shadow-md overflow-hidden">
+            <Image 
+              src="/90EE90.png" 
+              alt="90EE90 color light green img" 
+              width={800} 
+              height={400} 
+              className="w-full h-64 object-cover"
+            />
+            <div className="p-6">
+              <h2 className="text-2xl font-bold mb-2">
+                <Link href="/blog/ms" className="hover:text-[#90EE90] transition-colors">
+                Beyond Inspiration: Ableism, Accessibility, and the Realities of Disability Representation in Tech and Society                </Link>
+              </h2>
+              <div className="flex items-center text-gray-500 text-sm mb-4">
+                <Calendar className="w-4 h-4 mr-2" />
+                <span className="mr-4">September 25th, 2024</span>
+                <User className="w-4 h-4 mr-2" />
+                <span>Hannah Foppoli Hernández</span>
+              </div>
+              <p className="text-gray-600 mb-4">This blog post delves into the pervasive issue of ableism, challenging the harmful narratives that portray disabled individuals as mere sources of inspiration. It explores the implications of "inspiration porn," accessibility in technology, and recent advancements like LEGO Braille Bricks, while emphasizing the importance of inclusive design and genuine representation. 
+              </p>
+              <Link href="/blog/925" className="inline-flex items-center text-[#90EE90] hover:underline font-medium">
+                Read more <ChevronRight className="ml-1 w-4 h-4" />
+              </Link>
+            </div>
+          </article>
 
         
         </div>
