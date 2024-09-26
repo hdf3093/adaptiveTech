@@ -99,7 +99,7 @@ export default function BlogPage() {
             />
             <div className="p-6">
               <h2 className="text-2xl font-bold mb-2">
-                <Link href="/blog/ms" className="hover:text-[#90EE90] transition-colors">
+                <Link href="/blog/925" className="hover:text-[#90EE90] transition-colors">
                 Beyond Inspiration: Ableism, Accessibility, and the Realities of Disability Representation in Tech and Society                </Link>
               </h2>
               <div className="flex items-center text-gray-500 text-sm mb-4">
