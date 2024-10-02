@@ -126,7 +126,7 @@ export default function BlogPage() {
             <div className="p-6">
               <h2 className="text-2xl font-bold mb-2">
                 <Link href="/blog/102" className="hover:text-[#90EE90] transition-colors">
-                Camp Crip, Virtual Barriers, Flying Disabled, and Assistive Tech </Link>
+                Crip Camp, Virtual Barriers, Flying Disabled, and Assistive Tech </Link>
               </h2>
               <div className="flex items-center text-gray-500 text-sm mb-4">
                 <Calendar className="w-4 h-4 mr-2" />
@@ -134,7 +134,7 @@ export default function BlogPage() {
                 <User className="w-4 h-4 mr-2" />
                 <span>Hannah Foppoli Hernández</span>
               </div>
-              <p className="text-gray-600 mb-4">This post delves into the impact of the Camp Crip documentary and its role in highlighting the disability rights movement, while also exploring broader topics of accessibility and inclusive design. From the historical significance of Camp Jened to the present-day challenges disabled individuals face with technology and travel, it reflects on how societal systems often fall short in accessibility. Through personal reflections and examples, it emphasizes the importance of designing with inclusivity in mind, benefiting everyone, not just those with disabilities.
+              <p className="text-gray-600 mb-4">This post delves into the impact of the Crip Camp documentary and its role in highlighting the disability rights movement, while also exploring broader topics of accessibility and inclusive design. From the historical significance of Camp Jened to the present-day challenges disabled individuals face with technology and travel, it reflects on how societal systems often fall short in accessibility, and how inclusive design benefits us all.
 
               </p>
               <Link href="/blog/102" className="inline-flex items-center text-[#90EE90] hover:underline font-medium">
