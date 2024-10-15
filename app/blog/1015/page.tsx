@@ -61,8 +61,8 @@ export default function BlogPost() {
                 <Image
                   src="/concept1.png" 
                   alt="Concept Art 1"
-                  width={300} 
-                  height={300} 
+                  width={600} 
+                  height={600} 
                   className="object-contain"
                 />
               </div>
@@ -70,8 +70,8 @@ export default function BlogPost() {
                 <Image
                   src="/concept2.png" 
                   alt="Concept Art 2"
-                  width={300} 
-                  height={300} 
+                  width={600} 
+                  height={600} 
                   className="object-contain"
                 />
               </div>
