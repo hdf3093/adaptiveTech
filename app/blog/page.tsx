@@ -143,6 +143,34 @@ export default function BlogPage() {
             </div>
           </article>
 
+          <article className="bg-white rounded-lg shadow-md overflow-hidden">
+            <Image 
+              src="/90EE90.png" 
+              alt="90EE90 color light green img" 
+              width={800} 
+              height={400} 
+              className="w-full h-64 object-cover"
+            />
+            <div className="p-6">
+              <h2 className="text-2xl font-bold mb-2">
+                <Link href="/blog/1015" className="hover:text-[#90EE90] transition-colors">
+                Adaptive Game Documentation</Link>
+              </h2>
+              <div className="flex items-center text-gray-500 text-sm mb-4">
+                <Calendar className="w-4 h-4 mr-2" />
+                <span className="mr-4">October 14th, 2024</span>
+                <User className="w-4 h-4 mr-2" />
+                <span>Hannah Foppoli Hernández</span>
+              </div>
+              <p className="text-gray-600 mb-4">This post delves into the documentation for my group's final project, an adaptive game for those with limited hand dexterity.
+
+              </p>
+              <Link href="/blog/1015" className="inline-flex items-center text-[#90EE90] hover:underline font-medium">
+                Read more <ChevronRight className="ml-1 w-4 h-4" />
+              </Link>
+            </div>
+          </article>
+
         
         </div>
       </main>
