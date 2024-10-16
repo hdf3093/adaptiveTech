@@ -168,6 +168,63 @@ export default function BlogPost() {
 
               <h2>Next week, we will work on combining the finalized code to the Arduino and the interface created by Sandra and Robert. Further documentation from their parts will be reflected in my blog below.</h2>
               <p>I am also in charge of creating the slides to present to the class.</p>
+
+              <h2>10/15</h2>
+              <p>Today Amy and I met with Sandra to work with the switch prototypes and also debug code while Robert was in the shop working on his task of the case. </p>
+              <h3>Switch Prototypes</h3>
+              <div className="flex justify-center">
+                <Image
+                  src="/sandra1.png" 
+                  alt="sandra first prototype"
+                  width={500} 
+                  height={500} 
+                  className="object-contain"
+                />
+              </div>
+              <div className="flex justify-center">
+                <Image
+                  src="/sandra2.png" 
+                  alt="sandra second prototype"
+                  width={500} 
+                  height={500} 
+                  className="object-contain"
+                />
+              </div>
+              <div className="flex justify-center">
+                <Image
+                  src="/sandrafinal.png" 
+                  alt="sandra final prototype"
+                  width={500} 
+                  height={500} 
+                  className="object-contain"
+                />
+              </div>
+              <h3>Laser Cutting for Case</h3>
+              <p>Robert 3D modelled and laser cut the case for the switches.</p>
+              <div className="flex justify-center">
+                <Image
+                  src="/laser1.HEIC" 
+                  alt="robert lasercut"
+                  width={500} 
+                  height={500} 
+                  className="object-contain"
+                />
+              </div>
+              <div className="flex justify-center">
+                <Image
+                  src="/laser2.HEIC" 
+                  alt="robert lasercut"
+                  width={500} 
+                  height={500} 
+                  className="object-contain"
+                />
+              </div>
+              <p>We are meeting tomorrow to work together to connect everything and make sure everything runs smoothly.</p>
+
+
+
+
+
               
 
 
