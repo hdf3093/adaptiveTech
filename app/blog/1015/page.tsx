@@ -203,7 +203,7 @@ export default function BlogPost() {
               <p>Robert 3D modelled and laser cut the case for the switches.</p>
               <div className="flex justify-center">
                 <Image
-                  src="/laser1.HEIC" 
+                  src="/laser1.png" 
                   alt="robert lasercut"
                   width={500} 
                   height={500} 
@@ -212,7 +212,7 @@ export default function BlogPost() {
               </div>
               <div className="flex justify-center">
                 <Image
-                  src="/laser2.HEIC" 
+                  src="/laser2.png" 
                   alt="robert lasercut"
                   width={500} 
                   height={500} 
